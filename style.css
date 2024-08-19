@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+a{
+    text-decoration: none;
+}
+.header-container{
+    background-color: #f5ebd7;
+}
+.nav-container{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.nav-item{
+    display: flex;
+}
+li{
+    padding: 16px;
+    list-style-type: none;
+}
+.btn-primary
